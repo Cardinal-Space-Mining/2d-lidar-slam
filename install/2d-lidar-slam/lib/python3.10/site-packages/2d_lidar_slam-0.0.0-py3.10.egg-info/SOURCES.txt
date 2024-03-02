@@ -1,0 +1,16 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/2d-lidar-slam/2d_lidar_slam.egg-info/PKG-INFO
+../../build/2d-lidar-slam/2d_lidar_slam.egg-info/SOURCES.txt
+../../build/2d-lidar-slam/2d_lidar_slam.egg-info/dependency_links.txt
+../../build/2d-lidar-slam/2d_lidar_slam.egg-info/entry_points.txt
+../../build/2d-lidar-slam/2d_lidar_slam.egg-info/requires.txt
+../../build/2d-lidar-slam/2d_lidar_slam.egg-info/top_level.txt
+../../build/2d-lidar-slam/2d_lidar_slam.egg-info/zip-safe
+2d-lidar-slam/__init__.py
+resource/2d-lidar-slam
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
